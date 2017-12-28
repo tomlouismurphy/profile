@@ -1,0 +1,14 @@
+.intro {
+	font-family: 'Lora', serif;
+	font-size: 14px;
+}
+
+#name {
+	font-family: 'Lora', serif;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	color: #7e0b0b;
+	text-shadow: 0.25px 0.25px gray;
+	font-weight: bold;
+}

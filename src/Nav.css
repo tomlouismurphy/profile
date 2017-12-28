@@ -1,0 +1,52 @@
+.container {
+  margin-top: 0;
+  padding: 0;
+}
+
+.items {
+  text-align: center;
+  margin-top: 20px;
+  border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+}
+
+.mainNav {
+	font-family: 'Radley', serif;
+	font-size: 30px;
+	color: grey;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.mainNav:hover {
+	text-decoration: underline;
+	cursor: pointer;
+	color: teal;
+}
+
+@media (max-width: 500px) {
+	.mainNav {
+		font-size: 16px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+
+@media (max-width: 720px) and (min-width: 501px) {
+	.mainNav {
+		font-size: 18px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+@media (max-width: 1200px) and (min-width: 719px) {
+	.mainNav {
+		font-size: 26px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}

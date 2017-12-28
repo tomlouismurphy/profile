@@ -1,0 +1,15 @@
+#contact-info {
+	font-family: 'Radley', serif;
+	width: 50%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border-left: 2px dotted black;
+	border-right: 2px dotted black;
+	margin: 0 auto;
+}
+
+.image-icon {
+	width: 40px;
+	height: 40px;
+}

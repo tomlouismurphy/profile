@@ -1,0 +1,40 @@
+img {
+	height: 60vh;
+	border-radius: 15px;
+}
+
+@media (max-width: 720px) {
+	img {
+		height: 38vh;
+	}
+}
+
+@media (max-width: 475px) {
+	img {
+		height: 30vh;
+	}
+}
+
+.image-carrier {
+	height: 65vh;
+	width: 90%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border-left: 2px dotted black;
+	border-right: 2px dotted black;
+	border-bottom: 5px solid black;
+	text-align: center;
+}
+
+@media (max-width: 720px) {
+	.image-carrier {
+		height: 43vh;
+	}
+}
+
+@media (max-width: 475px) {
+	.image-carrier {
+		height: 35vh;
+	}
+}

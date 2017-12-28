@@ -1,0 +1,21 @@
+#projects {
+	font-family: 'Lora', serif;
+	width: 70%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border-left: 2px dotted black;
+	border-right: 2px dotted black;
+	border-bottom: 5px solid black;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.img-responsive {
+	width: 50%;
+	margin: 0 auto;
+}
+
+a {
+	color: teal;
+}

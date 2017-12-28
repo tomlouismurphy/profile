@@ -1,0 +1,36 @@
+h3 {
+	font-family: 'Radley', serif;
+}
+
+.description {
+	font-family: 'Lora', serif;
+	height: 70vh;
+	width: 70%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border-left: 2px dotted black;
+	border-right: 2px dotted black;
+	border-bottom: 5px solid black;
+	margin: 0 auto;
+	background-color: #dddddd;
+}
+
+img {
+	height: 40vh;
+	margin-bottom: 10px;
+	border-radius: 0px;
+	border: 2px solid black;
+}
+
+@media (max-width: 1000px){
+	img {
+		height: 30vh;
+	}
+}
+
+@media (max-width: 555px){
+	img {
+		height: 15vh;
+	}
+}
