@@ -7,7 +7,7 @@ class About extends Component {
 		return(
 			<div className="description">
 				<h3>About Me</h3>
-				<img src="/MurphyPicture.jpg" alt="MyPicture"/>
+				<img src="MurphyPicture.jpg" alt="MyPicture"/>
 				<p>I've created content as a writer for platforms 
 				from social media to the Chicago stage, and I've 
 				managed research projects for clients from the 

@@ -27,7 +27,7 @@ class Project extends Component {
 					</div>
 					<div>
 						<a href="https://tomlouismurphy.github.io/guillotine/"><h3 className="project-header">Guillotine</h3>
-							<img className="img-responsive" src="/guillotinescreenshot.png" /></a>
+							<img className="img-responsive" src="guillotinescreenshot.png" /></a>
 							<br/>
 							<p>Inspired by a popular 1990s card game, this two-player in-browser game pits two players against each other to see which of them can collect the most nobles in a cartoonish, slapstick, French Revolution-inspired setting. A deck of over forty unique action cards that is dealt out to each player packs the game full of twists and turns, with the fortune of each player ready to be upended at any moment.</p>
 							<br/>

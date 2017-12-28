@@ -6,7 +6,7 @@ class Homeimage extends Component {
 	render(){
 		return(
 			<div className="image-carrier">
-				<img src="/worldmap.jpg" alt="Map" />
+				<img src="worldmap.jpg" alt="Map" />
 			</div>
 		)
 	}
